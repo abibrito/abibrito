@@ -49,6 +49,6 @@ I'm a 28-year-old living in São Luís, MA, and I've fallen in love with the wor
 </br>
 <div display="flex" align="center">
   <p>Follow me:</p>
-  <a href="https://www.instagram.com/abibrito" target="_blank"><img align="center="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+  <a href="https://www.instagram.com/abibritto" target="_blank"><img align="center="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
   <a href="https://www.linkedin.com/in/abibrito" target="_blank"><img align="center="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
