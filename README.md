@@ -19,7 +19,7 @@ I'm a 28-year-old living in São Luís, MA, and I've fallen in love with the wor
 
 - 🌱 I’m currently a Fullstack student.
 
-- 📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/abibrito) or [LinkedIn](https://www.linkedin.com/in/abibrito).
+- 📫 How to reach me: You can find me on [Instagram](https://www.instagram.com/abibritto) or [LinkedIn](https://www.linkedin.com/in/abibrito).
 
 - ⚡ Fun fact: I love listening to music, playing the drums, and hanging out with friends in my free time.
 
