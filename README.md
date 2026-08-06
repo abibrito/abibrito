@@ -6,7 +6,7 @@
   <h2>👋 Hello, Devs!!! Welcome to my Github profile.</h2>
 </div>
 
-I'm a 28-year-old living in São Luís, MA, and I've fallen in love with the world of programming. I'm currently in the process of transitioning to a career in tech and am studying for a Fullstack course with a focus on JavaScript at Escola DNC. Through this program, I'm gaining hands-on experience with the latest web development tools and technologies, and I'm excited to see where this journey takes me. :rocket:
+I'm a 31-year-old living in São Luís, MA, and I've fallen in love with the world of programming. I'm currently in the process of transitioning to a career in tech and am studying for a Fullstack course with a focus on JavaScript at Escola DNC. Through this program, I'm gaining hands-on experience with the latest web development tools and technologies, and I'm excited to see where this journey takes me. :rocket:
 
 
 <p align="center">
